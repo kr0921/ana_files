@@ -1,0 +1,33 @@
+--- Analysis sample (1 for FGD1, 2 for FGD2, 3 for both FGDs) --------
+ < LDMAnalysis.Sample.whichDetector = 2 >
+
+--- Cut levels: Use 15 to apply all cuts for FGD1 and FGD2. 14 for P0D. --------
+ < LDMAnalysis.MinAccumLevelToSave.FGD1 = 9 >
+ < LDMAnalysis.MinAccumLevelToSave.FGD2 = 9 >
+ < LDMAnalysis.MinAccumLevelToSave.P0D  = 3 >
+
+--- Save additional toy vars at microtree for the FGDs --------
+ < LDMAnalysis.MicroTrees.AdditionalToyVars = 0 >
+
+--- Expand FGD FV  --------
+ < LDMAnalysis.UseAlternateFGDFV = 1 >
+
+--- Define low momentum region and low momentum cut for FGD analyses  --------
+ < LDMAnalysis.LowMomentumRegion.FGD = 200.0 >
+ < LDMAnalysis.LowMomentumThreshold.FGD = 0.0 >
+
+--- Systematics to enable --------
+ < LDMAnalysis.Syst.EnableVASystematics = 0 >   
+ < LDMAnalysis.Syst.EnableNuParentDecayPosSystematics = 0 >
+ < LDMAnalysis.Syst.EnableTPCAngResolutionSystematics = 0 >
+ 
+--- Time Bunching ------------
+ < LDMAnalysis.TimeBunching.sigma    = 50. >
+ < LDMAnalysis.TimeBunching.NSigmas  = 6.  >
+ < LDMAnalysis.TimeBunching.TimeCutL = 100. > // to be adjusted
+ < LDMAnalysis.TimeBunching.TimeCutH = 300. >  // to be adjusted
+ 
+ ---- Correction applied at the converter level --- 
+  < LDMAnalysis.Corrections.EnableToFcorr     = 0 >
+ 
+< highlandIO.oaAnalysis.ForceIgnoreRunNumberClash = 1 >

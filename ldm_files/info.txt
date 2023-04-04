@@ -1,0 +1,8 @@
+Examples:
+bin/RunLDMAnalysis.exe -v -o fgd2_eta_decay_prerun7geom.root -p myLDMAnalysis.FGD2.parameters.dat fgd2_eta_decay_prerun7geom.list
+
+
+sh run_with_split.sh myLDMAnalysis.FGD1.parameters.dat production006_B_mcp_genie_2010-11-air_magnet_run3_anal.list 300 production006_B_mcp_genie_2010-11-air_magnet_run3_anal
+
+sh checkGRooTrackerVtx.sh production006_B_mcp_anti-genie_2010-11-air_magnet_run6_anal.list
+
