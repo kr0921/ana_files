@@ -1,0 +1,55 @@
+% !TEX root = note.tex
+\documentclass[5pt,a4paper]{article}
+\usepackage[T2A]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage[russian,english]{babel}
+%\usepackage[showframe]{geometry}
+\usepackage[showcrop,includeheadfoot=true, hmargin=0mm, vmargin=0mm, top=0mm]{geometry}
+\geometry{papersize={50. cm,25.4 cm}}
+
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{graphicx}
+\usepackage{mathtools}
+%\usepackage{biblatex}
+%\addbibresource{sample.bib}
+\usepackage[nottoc]{tocbibind}
+\usepackage[toc,page]{appendix}
+\usepackage{authblk}
+\usepackage[8pt]{extsizes}
+
+\topmargin -0.1in
+\hoffset -0.30in
+\textwidth 6.7in
+\textheight 9.3in
+\oddsidemargin 0.25in
+\evensidemargin 0.25in
+
+\setcounter{secnumdepth}{0}
+\graphicspath{{./pdf-files/}{./pdfs_1/}}
+
+
+
+\begin{document}
+{\huge
+
+\input{"yields.tex"}
+\pagebreak 
+\input{"syst.tex"}
+\pagebreak 
+\input{"dsyst_nuEleElastic.tex"}
+\pagebreak 
+\input{"dsyst_otherBG.tex"}
+\pagebreak 
+\input{"dsyst_all_bg.tex"}
+
+\begin{equation}
+\begin{split}
+L(\boldsymbol{n},\boldsymbol{\theta^0}|\mu_\text{sig},\boldsymbol{b},\boldsymbol{\theta}) & = P_{SR} \times C_\text{syst} = \\
+& = \prod_{i} P(n_i|\lambda_i(\mu_\text{sig},\boldsymbol{b},\boldsymbol{\theta})) \times C_\text{syst}(\boldsymbol{\theta^0},\boldsymbol{\theta})
+\end{split}
+\end{equation}
+
+
+}
+\end{document}

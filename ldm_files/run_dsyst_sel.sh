@@ -1,0 +1,78 @@
+    
+#sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat fgd1_pi0_decay_prerun7geom.list 26 fgd1_pi0_decay_prerun7geom
+#sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat fgd2_pi0_decay_prerun7geom.list 26 fgd2_pi0_decay_prerun7geom
+#sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat fgd1_eta_decay_prerun7geom.list 109 fgd1_eta_decay_prerun7geom
+#sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat fgd2_eta_decay_prerun7geom.list 109 fgd2_eta_decay_prerun7geom
+   
+#sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat production006_B_mcp_anti-genie_2010-11-air_magnet_run6_anal.list 1000 production006_B_mcp_anti-genie_2010-11-air_magnet_run6_anal
+#sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat production006_B_mcp_anti-genie_2010-11-water_magnet_run5_anal.list 1000 production006_B_mcp_anti-genie_2010-11-water_magnet_run5_anal
+#sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat production006_B_mcp_genie_2010-11-air_magnet_run2_anal.list 1000 production006_B_mcp_genie_2010-11-air_magnet_run2_anal
+#sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat production006_B_mcp_genie_2010-11-air_magnet_run3_anal.list 1000 production006_B_mcp_genie_2010-11-air_magnet_run3_anal
+#sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat production006_B_mcp_genie_2010-11-air_magnet_run4_anal.list 1000 production006_B_mcp_genie_2010-11-air_magnet_run4_anal
+#sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat production006_B_mcp_genie_2010-11-water_magnet_run2_anal.list 1000 production006_B_mcp_genie_2010-11-water_magnet_run2_anal
+#sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat production006_B_mcp_genie_2010-11-water_magnet_run4_anal.list 1000 production006_B_mcp_genie_2010-11-water_magnet_run4_anal
+#sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat production006_L_mcp_anti-genie_2015-08-water_magnet_run7_anal.list 1000 production006_L_mcp_anti-genie_2015-08-water_magnet_run7_anal
+#sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat production006_L_mcp_genie_2015-08-air_magnet_run8_anal.list 1000 production006_L_mcp_genie_2015-08-air_magnet_run8_anal
+#sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat production006_L_mcp_genie_2015-08-water_magnet_run8_anal.list 1000 production006_L_mcp_genie_2015-08-water_magnet_run8_anal
+   
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat production006_B_mcp_anti-genie_2010-11-air_magnet_run6_anal.list 1000 production006_B_mcp_anti-genie_2010-11-air_magnet_run6_anal_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat production006_B_mcp_anti-genie_2010-11-water_magnet_run5_anal.list 1000 production006_B_mcp_anti-genie_2010-11-water_magnet_run5_anal_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat production006_B_mcp_genie_2010-11-air_magnet_run2_anal.list 1000 production006_B_mcp_genie_2010-11-air_magnet_run2_anal_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat production006_B_mcp_genie_2010-11-air_magnet_run3_anal.list 1000 production006_B_mcp_genie_2010-11-air_magnet_run3_anal_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat production006_B_mcp_genie_2010-11-air_magnet_run4_anal.list 1000 production006_B_mcp_genie_2010-11-air_magnet_run4_anal_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat production006_B_mcp_genie_2010-11-water_magnet_run2_anal.list 1000 production006_B_mcp_genie_2010-11-water_magnet_run2_anal_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat production006_B_mcp_genie_2010-11-water_magnet_run4_anal.list 1000 production006_B_mcp_genie_2010-11-water_magnet_run4_anal_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat production006_L_mcp_anti-genie_2015-08-water_magnet_run7_anal.list 1000 production006_L_mcp_anti-genie_2015-08-water_magnet_run7_anal_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat production006_L_mcp_genie_2015-08-air_magnet_run8_anal.list 1000 production006_L_mcp_genie_2015-08-air_magnet_run8_anal_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat production006_L_mcp_genie_2015-08-water_magnet_run8_anal.list 1000 production006_L_mcp_genie_2015-08-water_magnet_run8_anal_fgd2
+ 
+
+#FGD1
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat neut_fhc_run2air_p6T.list 60 neut_fhc_run2air_p6T_fgd1
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat neut_fhc_run2water_p6T.list 43 neut_fhc_run2water_p6T_fgd1
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat neut_fhc_run3air_p6T.list 110 neut_fhc_run3air_p6T_fgd1
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat neut_fhc_run4air_p6T.list 129 neut_fhc_run4air_p6T_fgd1
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat neut_fhc_run4water_p6T.list 129 neut_fhc_run4water_p6T_fgd1
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat neut_fhc_run8air_p6T.list 159 neut_fhc_run8air_p6T_fgd1
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat neut_fhc_run8water_p6T.list 97 neut_fhc_run8water_p6T_fgd1
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat neut_rhc_run5water_p6T.list 80 neut_rhc_run5water_p6T_fgd1
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat neut_rhc_run6air_p6T.list 125 neut_rhc_run6air_p6T_fgd1
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat neut_rhc_run7water_p6T.list 119 neut_rhc_run7water_p6T_fgd1
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD1.parameters.syst.dat neut_rhc_run9water_p6T.list 94 neut_rhc_run9water_p6T_fgd1
+
+
+#FGD2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat neut_fhc_run2air_p6T.list 60 neut_fhc_run2air_p6T_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat neut_fhc_run2water_p6T.list 43 neut_fhc_run2water_p6T_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat neut_fhc_run3air_p6T.list 110 neut_fhc_run3air_p6T_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat neut_fhc_run4air_p6T.list 129 neut_fhc_run4air_p6T_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat neut_fhc_run4water_p6T.list 129 neut_fhc_run4water_p6T_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat neut_fhc_run8air_p6T.list 159 neut_fhc_run8air_p6T_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat neut_fhc_run8water_p6T.list 97 neut_fhc_run8water_p6T_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat neut_rhc_run5water_p6T.list 80 neut_rhc_run5water_p6T_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat neut_rhc_run6air_p6T.list 125 neut_rhc_run6air_p6T_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat neut_rhc_run7water_p6T.list 119 neut_rhc_run7water_p6T_fgd2
+sh run_with_split_on_farm.sh myLDMAnalysis.FGD2.parameters.syst.dat neut_rhc_run9water_p6T.list 94 neut_rhc_run9water_p6T_fgd2
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

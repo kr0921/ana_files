@@ -1,0 +1,1485 @@
+sipion_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("sipion_syst",-1)...
+
+ Average differential error = 8.15377e-16
+FGD1_FHC   nuEleElastic   sipion_syst   RelErr= 8.15377e-16
+
+ Average differential error = 6.66134e-16
+FGD1_FHC   ccnue   sipion_syst   RelErr= 6.66134e-16
+
+ Average differential error = 0.00542637
+FGD1_FHC   otherBG   sipion_syst   RelErr= 0.00542637
+
+ Average differential error = 2.45015e-15
+FGD2_FHC   nuEleElastic   sipion_syst   RelErr= 2.45015e-15
+
+ Average differential error = 6.66134e-16
+FGD2_FHC   ccnue   sipion_syst   RelErr= 6.66134e-16
+
+ Average differential error = 5.0156e-15
+FGD2_FHC   otherBG   sipion_syst   RelErr= 5.0156e-15
+
+ Average differential error = 5.0156e-15
+FGD1_RHC   nuEleElastic   sipion_syst   RelErr= 5.0156e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   sipion_syst   RelErr= -nan
+
+ Average differential error = 8.88178e-16
+FGD1_RHC   otherBG   sipion_syst   RelErr= 8.88178e-16
+
+ Average differential error = 3.21436e-15
+FGD2_RHC   nuEleElastic   sipion_syst   RelErr= 3.21436e-15
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   sipion_syst   RelErr= -nan
+
+ Average differential error = 0.00616565
+FGD2_RHC   otherBG   sipion_syst   RelErr= 0.00616565
+siproton_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("siproton_syst",-1)...
+
+ Average differential error = 8.15377e-16
+FGD1_FHC   nuEleElastic   siproton_syst   RelErr= 8.15377e-16
+
+ Average differential error = 6.66134e-16
+FGD1_FHC   ccnue   siproton_syst   RelErr= 6.66134e-16
+
+ Average differential error = 1.18424e-15
+FGD1_FHC   otherBG   siproton_syst   RelErr= 1.18424e-15
+
+ Average differential error = 2.45015e-15
+FGD2_FHC   nuEleElastic   siproton_syst   RelErr= 2.45015e-15
+
+ Average differential error = 6.66134e-16
+FGD2_FHC   ccnue   siproton_syst   RelErr= 6.66134e-16
+
+ Average differential error = 5.0156e-15
+FGD2_FHC   otherBG   siproton_syst   RelErr= 5.0156e-15
+
+ Average differential error = 5.0156e-15
+FGD1_RHC   nuEleElastic   siproton_syst   RelErr= 5.0156e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   siproton_syst   RelErr= -nan
+
+ Average differential error = 8.88178e-16
+FGD1_RHC   otherBG   siproton_syst   RelErr= 8.88178e-16
+
+ Average differential error = 3.21436e-15
+FGD2_RHC   nuEleElastic   siproton_syst   RelErr= 3.21436e-15
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   siproton_syst   RelErr= -nan
+
+ Average differential error = 6.66134e-16
+FGD2_RHC   otherBG   siproton_syst   RelErr= 6.66134e-16
+all_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("all_syst",-1)...
+
+ Average differential error = 0.0280763
+FGD1_FHC   nuEleElastic   all_syst   RelErr= 0.0280763
+
+ Average differential error = 0.178926
+FGD1_FHC   ccnue   all_syst   RelErr= 0.178926
+
+ Average differential error = 0.183449
+FGD1_FHC   otherBG   all_syst   RelErr= 0.183449
+
+ Average differential error = 0.0365171
+FGD2_FHC   nuEleElastic   all_syst   RelErr= 0.0365171
+
+ Average differential error = 0.263024
+FGD2_FHC   ccnue   all_syst   RelErr= 0.263024
+
+ Average differential error = 0.166572
+FGD2_FHC   otherBG   all_syst   RelErr= 0.166572
+
+ Average differential error = 0.0270313
+FGD1_RHC   nuEleElastic   all_syst   RelErr= 0.0270313
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   all_syst   RelErr= -nan
+
+ Average differential error = 0.411893
+FGD1_RHC   otherBG   all_syst   RelErr= 0.411893
+
+ Average differential error = 0.0569662
+FGD2_RHC   nuEleElastic   all_syst   RelErr= 0.0569662
+
+ Average differential error = 0.853154
+FGD2_RHC   ccnue   all_syst   RelErr= 0.853154
+
+ Average differential error = 0.318213
+FGD2_RHC   otherBG   all_syst   RelErr= 0.318213
+bfield_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("bfield_syst",-1)...
+
+ Average differential error = 2.18405e-15
+FGD1_FHC   nuEleElastic   bfield_syst   RelErr= 2.18405e-15
+
+ Average differential error = 2.08167e-15
+FGD1_FHC   ccnue   bfield_syst   RelErr= 2.08167e-15
+
+ Average differential error = 0.0347655
+FGD1_FHC   otherBG   bfield_syst   RelErr= 0.0347655
+
+ Average differential error = 4.97686e-15
+FGD2_FHC   nuEleElastic   bfield_syst   RelErr= 4.97686e-15
+
+ Average differential error = 2.08167e-15
+FGD2_FHC   ccnue   bfield_syst   RelErr= 2.08167e-15
+
+ Average differential error = 0.0262661
+FGD2_FHC   otherBG   bfield_syst   RelErr= 0.0262661
+
+ Average differential error = 1.14288e-15
+FGD1_RHC   nuEleElastic   bfield_syst   RelErr= 1.14288e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   bfield_syst   RelErr= -nan
+
+ Average differential error = 2.31296e-15
+FGD1_RHC   otherBG   bfield_syst   RelErr= 2.31296e-15
+
+ Average differential error = 4.89027e-15
+FGD2_RHC   nuEleElastic   bfield_syst   RelErr= 4.89027e-15
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   bfield_syst   RelErr= -nan
+
+ Average differential error = 2.08167e-15
+FGD2_RHC   otherBG   bfield_syst   RelErr= 2.08167e-15
+momscale_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("momscale_syst",-1)...
+
+ Average differential error = 2.18405e-15
+FGD1_FHC   nuEleElastic   momscale_syst   RelErr= 2.18405e-15
+
+ Average differential error = 2.08167e-15
+FGD1_FHC   ccnue   momscale_syst   RelErr= 2.08167e-15
+
+ Average differential error = 2.77556e-15
+FGD1_FHC   otherBG   momscale_syst   RelErr= 2.77556e-15
+
+ Average differential error = 4.97686e-15
+FGD2_FHC   nuEleElastic   momscale_syst   RelErr= 4.97686e-15
+
+ Average differential error = 2.08167e-15
+FGD2_FHC   ccnue   momscale_syst   RelErr= 2.08167e-15
+
+ Average differential error = 0.00584943
+FGD2_FHC   otherBG   momscale_syst   RelErr= 0.00584943
+
+ Average differential error = 1.14288e-15
+FGD1_RHC   nuEleElastic   momscale_syst   RelErr= 1.14288e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   momscale_syst   RelErr= -nan
+
+ Average differential error = 2.31296e-15
+FGD1_RHC   otherBG   momscale_syst   RelErr= 2.31296e-15
+
+ Average differential error = 4.89027e-15
+FGD2_RHC   nuEleElastic   momscale_syst   RelErr= 4.89027e-15
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   momscale_syst   RelErr= -nan
+
+ Average differential error = 2.08167e-15
+FGD2_RHC   otherBG   momscale_syst   RelErr= 2.08167e-15
+momresol_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("momresol_syst",-1)...
+
+ Average differential error = 0.00324
+FGD1_FHC   nuEleElastic   momresol_syst   RelErr= 0.00324
+
+ Average differential error = 2.08167e-15
+FGD1_FHC   ccnue   momresol_syst   RelErr= 2.08167e-15
+
+ Average differential error = 0.0419735
+FGD1_FHC   otherBG   momresol_syst   RelErr= 0.0419735
+
+ Average differential error = 0.00338094
+FGD2_FHC   nuEleElastic   momresol_syst   RelErr= 0.00338094
+
+ Average differential error = 2.08167e-15
+FGD2_FHC   ccnue   momresol_syst   RelErr= 2.08167e-15
+
+ Average differential error = 0.0408196
+FGD2_FHC   otherBG   momresol_syst   RelErr= 0.0408196
+
+ Average differential error = 1.14288e-15
+FGD1_RHC   nuEleElastic   momresol_syst   RelErr= 1.14288e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   momresol_syst   RelErr= -nan
+
+ Average differential error = 0.161205
+FGD1_RHC   otherBG   momresol_syst   RelErr= 0.161205
+
+ Average differential error = 4.89027e-15
+FGD2_RHC   nuEleElastic   momresol_syst   RelErr= 4.89027e-15
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   momresol_syst   RelErr= -nan
+
+ Average differential error = 2.08167e-15
+FGD2_RHC   otherBG   momresol_syst   RelErr= 2.08167e-15
+tpcpid_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("tpcpid_syst",-1)...
+
+ Average differential error = 0.0157479
+FGD1_FHC   nuEleElastic   tpcpid_syst   RelErr= 0.0157479
+
+ Average differential error = 2.08167e-15
+FGD1_FHC   ccnue   tpcpid_syst   RelErr= 2.08167e-15
+
+ Average differential error = 0.0711925
+FGD1_FHC   otherBG   tpcpid_syst   RelErr= 0.0711925
+
+ Average differential error = 0.0128359
+FGD2_FHC   nuEleElastic   tpcpid_syst   RelErr= 0.0128359
+
+ Average differential error = 0.107981
+FGD2_FHC   ccnue   tpcpid_syst   RelErr= 0.107981
+
+ Average differential error = 0.0305135
+FGD2_FHC   otherBG   tpcpid_syst   RelErr= 0.0305135
+
+ Average differential error = 0.00929343
+FGD1_RHC   nuEleElastic   tpcpid_syst   RelErr= 0.00929343
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   tpcpid_syst   RelErr= -nan
+
+ Average differential error = 0.174003
+FGD1_RHC   otherBG   tpcpid_syst   RelErr= 0.174003
+
+ Average differential error = 0.0228336
+FGD2_RHC   nuEleElastic   tpcpid_syst   RelErr= 0.0228336
+
+ Average differential error = 3.08647
+FGD2_RHC   ccnue   tpcpid_syst   RelErr= 3.08647
+
+ Average differential error = 0.0869001
+FGD2_RHC   otherBG   tpcpid_syst   RelErr= 0.0869001
+fgdpid_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("fgdpid_syst",-1)...
+
+ Average differential error = 2.18405e-15
+FGD1_FHC   nuEleElastic   fgdpid_syst   RelErr= 2.18405e-15
+
+ Average differential error = 2.08167e-15
+FGD1_FHC   ccnue   fgdpid_syst   RelErr= 2.08167e-15
+
+ Average differential error = 2.77556e-15
+FGD1_FHC   otherBG   fgdpid_syst   RelErr= 2.77556e-15
+
+ Average differential error = 4.97686e-15
+FGD2_FHC   nuEleElastic   fgdpid_syst   RelErr= 4.97686e-15
+
+ Average differential error = 2.08167e-15
+FGD2_FHC   ccnue   fgdpid_syst   RelErr= 2.08167e-15
+
+ Average differential error = 1.14288e-15
+FGD2_FHC   otherBG   fgdpid_syst   RelErr= 1.14288e-15
+
+ Average differential error = 1.14288e-15
+FGD1_RHC   nuEleElastic   fgdpid_syst   RelErr= 1.14288e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   fgdpid_syst   RelErr= -nan
+
+ Average differential error = 2.31296e-15
+FGD1_RHC   otherBG   fgdpid_syst   RelErr= 2.31296e-15
+
+ Average differential error = 4.89027e-15
+FGD2_RHC   nuEleElastic   fgdpid_syst   RelErr= 4.89027e-15
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   fgdpid_syst   RelErr= -nan
+
+ Average differential error = 2.08167e-15
+FGD2_RHC   otherBG   fgdpid_syst   RelErr= 2.08167e-15
+ecal_emresol_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("ecal_emresol_syst",-1)...
+
+ Average differential error = 2.18405e-15
+FGD1_FHC   nuEleElastic   ecal_emresol_syst   RelErr= 2.18405e-15
+
+ Average differential error = 2.08167e-15
+FGD1_FHC   ccnue   ecal_emresol_syst   RelErr= 2.08167e-15
+
+ Average differential error = 2.77556e-15
+FGD1_FHC   otherBG   ecal_emresol_syst   RelErr= 2.77556e-15
+
+ Average differential error = 0.0138563
+FGD2_FHC   nuEleElastic   ecal_emresol_syst   RelErr= 0.0138563
+
+ Average differential error = 2.08167e-15
+FGD2_FHC   ccnue   ecal_emresol_syst   RelErr= 2.08167e-15
+
+ Average differential error = 0.00415026
+FGD2_FHC   otherBG   ecal_emresol_syst   RelErr= 0.00415026
+
+ Average differential error = 1.14288e-15
+FGD1_RHC   nuEleElastic   ecal_emresol_syst   RelErr= 1.14288e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   ecal_emresol_syst   RelErr= -nan
+
+ Average differential error = 2.31296e-15
+FGD1_RHC   otherBG   ecal_emresol_syst   RelErr= 2.31296e-15
+
+ Average differential error = 0.0178152
+FGD2_RHC   nuEleElastic   ecal_emresol_syst   RelErr= 0.0178152
+
+ Average differential error = 6.245
+FGD2_RHC   ccnue   ecal_emresol_syst   RelErr= 6.245
+
+ Average differential error = 2.08167e-15
+FGD2_RHC   otherBG   ecal_emresol_syst   RelErr= 2.08167e-15
+ecal_emscale_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("ecal_emscale_syst",-1)...
+
+ Average differential error = 2.18405e-15
+FGD1_FHC   nuEleElastic   ecal_emscale_syst   RelErr= 2.18405e-15
+
+ Average differential error = 2.08167e-15
+FGD1_FHC   ccnue   ecal_emscale_syst   RelErr= 2.08167e-15
+
+ Average differential error = 2.77556e-15
+FGD1_FHC   otherBG   ecal_emscale_syst   RelErr= 2.77556e-15
+
+ Average differential error = 0.0172054
+FGD2_FHC   nuEleElastic   ecal_emscale_syst   RelErr= 0.0172054
+
+ Average differential error = 2.08167e-15
+FGD2_FHC   ccnue   ecal_emscale_syst   RelErr= 2.08167e-15
+
+ Average differential error = 1.14288e-15
+FGD2_FHC   otherBG   ecal_emscale_syst   RelErr= 1.14288e-15
+
+ Average differential error = 1.14288e-15
+FGD1_RHC   nuEleElastic   ecal_emscale_syst   RelErr= 1.14288e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   ecal_emscale_syst   RelErr= -nan
+
+ Average differential error = 2.31296e-15
+FGD1_RHC   otherBG   ecal_emscale_syst   RelErr= 2.31296e-15
+
+ Average differential error = 0.022138
+FGD2_RHC   nuEleElastic   ecal_emscale_syst   RelErr= 0.022138
+
+ Average differential error = 7
+FGD2_RHC   ccnue   ecal_emscale_syst   RelErr= 7
+
+ Average differential error = 2.08167e-15
+FGD2_RHC   otherBG   ecal_emscale_syst   RelErr= 2.08167e-15
+tof_resol_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("tof_resol_syst",-1)...
+
+ Average differential error = 2.18405e-15
+FGD1_FHC   nuEleElastic   tof_resol_syst   RelErr= 2.18405e-15
+
+ Average differential error = 2.08167e-15
+FGD1_FHC   ccnue   tof_resol_syst   RelErr= 2.08167e-15
+
+ Average differential error = 2.77556e-15
+FGD1_FHC   otherBG   tof_resol_syst   RelErr= 2.77556e-15
+
+ Average differential error = 4.97686e-15
+FGD2_FHC   nuEleElastic   tof_resol_syst   RelErr= 4.97686e-15
+
+ Average differential error = 2.08167e-15
+FGD2_FHC   ccnue   tof_resol_syst   RelErr= 2.08167e-15
+
+ Average differential error = 1.14288e-15
+FGD2_FHC   otherBG   tof_resol_syst   RelErr= 1.14288e-15
+
+ Average differential error = 1.14288e-15
+FGD1_RHC   nuEleElastic   tof_resol_syst   RelErr= 1.14288e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   tof_resol_syst   RelErr= -nan
+
+ Average differential error = 2.31296e-15
+FGD1_RHC   otherBG   tof_resol_syst   RelErr= 2.31296e-15
+
+ Average differential error = 4.89027e-15
+FGD2_RHC   nuEleElastic   tof_resol_syst   RelErr= 4.89027e-15
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   tof_resol_syst   RelErr= -nan
+
+ Average differential error = 2.08167e-15
+FGD2_RHC   otherBG   tof_resol_syst   RelErr= 2.08167e-15
+chargeideff_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("chargeideff_syst",-1)...
+
+ Average differential error = 0.000203634
+FGD1_FHC   nuEleElastic   chargeideff_syst   RelErr= 0.000203634
+
+ Average differential error = 0.000919849
+FGD1_FHC   ccnue   chargeideff_syst   RelErr= 0.000919849
+
+ Average differential error = 0.000462093
+FGD1_FHC   otherBG   chargeideff_syst   RelErr= 0.000462093
+
+ Average differential error = 0.000267419
+FGD2_FHC   nuEleElastic   chargeideff_syst   RelErr= 0.000267419
+
+ Average differential error = 0.00102938
+FGD2_FHC   ccnue   chargeideff_syst   RelErr= 0.00102938
+
+ Average differential error = 0.00049327
+FGD2_FHC   otherBG   chargeideff_syst   RelErr= 0.00049327
+
+ Average differential error = 0.000365013
+FGD1_RHC   nuEleElastic   chargeideff_syst   RelErr= 0.000365013
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   chargeideff_syst   RelErr= -nan
+
+ Average differential error = 0.000863065
+FGD1_RHC   otherBG   chargeideff_syst   RelErr= 0.000863065
+
+ Average differential error = 0.000416531
+FGD2_RHC   nuEleElastic   chargeideff_syst   RelErr= 0.000416531
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   chargeideff_syst   RelErr= -nan
+
+ Average differential error = 0.00107101
+FGD2_RHC   otherBG   chargeideff_syst   RelErr= 0.00107101
+tpctrackeff_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("tpctrackeff_syst",-1)...
+
+ Average differential error = 0.00119847
+FGD1_FHC   nuEleElastic   tpctrackeff_syst   RelErr= 0.00119847
+
+ Average differential error = 0.00547659
+FGD1_FHC   ccnue   tpctrackeff_syst   RelErr= 0.00547659
+
+ Average differential error = 0.018851
+FGD1_FHC   otherBG   tpctrackeff_syst   RelErr= 0.018851
+
+ Average differential error = 0.00144216
+FGD2_FHC   nuEleElastic   tpctrackeff_syst   RelErr= 0.00144216
+
+ Average differential error = 0.049303
+FGD2_FHC   ccnue   tpctrackeff_syst   RelErr= 0.049303
+
+ Average differential error = 0.00271012
+FGD2_FHC   otherBG   tpctrackeff_syst   RelErr= 0.00271012
+
+ Average differential error = 0.00200952
+FGD1_RHC   nuEleElastic   tpctrackeff_syst   RelErr= 0.00200952
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   tpctrackeff_syst   RelErr= -nan
+
+ Average differential error = 0.00415672
+FGD1_RHC   otherBG   tpctrackeff_syst   RelErr= 0.00415672
+
+ Average differential error = 0.00235403
+FGD2_RHC   nuEleElastic   tpctrackeff_syst   RelErr= 0.00235403
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   tpctrackeff_syst   RelErr= -nan
+
+ Average differential error = 0.00551099
+FGD2_RHC   otherBG   tpctrackeff_syst   RelErr= 0.00551099
+tpcfgdmatcheff_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("tpcfgdmatcheff_syst",-1)...
+
+ Average differential error = 0.000670039
+FGD1_FHC   nuEleElastic   tpcfgdmatcheff_syst   RelErr= 0.000670039
+
+ Average differential error = 6.66134e-16
+FGD1_FHC   ccnue   tpcfgdmatcheff_syst   RelErr= 6.66134e-16
+
+ Average differential error = 0.00123944
+FGD1_FHC   otherBG   tpcfgdmatcheff_syst   RelErr= 0.00123944
+
+ Average differential error = 0.00153787
+FGD2_FHC   nuEleElastic   tpcfgdmatcheff_syst   RelErr= 0.00153787
+
+ Average differential error = 6.66134e-16
+FGD2_FHC   ccnue   tpcfgdmatcheff_syst   RelErr= 6.66134e-16
+
+ Average differential error = 0.00234613
+FGD2_FHC   otherBG   tpcfgdmatcheff_syst   RelErr= 0.00234613
+
+ Average differential error = 0.000630677
+FGD1_RHC   nuEleElastic   tpcfgdmatcheff_syst   RelErr= 0.000630677
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   tpcfgdmatcheff_syst   RelErr= -nan
+
+ Average differential error = 8.88178e-16
+FGD1_RHC   otherBG   tpcfgdmatcheff_syst   RelErr= 8.88178e-16
+
+ Average differential error = 0.00202239
+FGD2_RHC   nuEleElastic   tpcfgdmatcheff_syst   RelErr= 0.00202239
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   tpcfgdmatcheff_syst   RelErr= -nan
+
+ Average differential error = 6.66134e-16
+FGD2_RHC   otherBG   tpcfgdmatcheff_syst   RelErr= 6.66134e-16
+fgdmass_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("fgdmass_syst",-1)...
+
+ Average differential error = 0.000791805
+FGD1_FHC   nuEleElastic   fgdmass_syst   RelErr= 0.000791805
+
+ Average differential error = 0.00296811
+FGD1_FHC   ccnue   fgdmass_syst   RelErr= 0.00296811
+
+ Average differential error = 0.000811781
+FGD1_FHC   otherBG   fgdmass_syst   RelErr= 0.000811781
+
+ Average differential error = 0.000744342
+FGD2_FHC   nuEleElastic   fgdmass_syst   RelErr= 0.000744342
+
+ Average differential error = 0.00280466
+FGD2_FHC   ccnue   fgdmass_syst   RelErr= 0.00280466
+
+ Average differential error = 0.000860041
+FGD2_FHC   otherBG   fgdmass_syst   RelErr= 0.000860041
+
+ Average differential error = 0.00148433
+FGD1_RHC   nuEleElastic   fgdmass_syst   RelErr= 0.00148433
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   fgdmass_syst   RelErr= -nan
+
+ Average differential error = 0.00199226
+FGD1_RHC   otherBG   fgdmass_syst   RelErr= 0.00199226
+
+ Average differential error = 0.00118981
+FGD2_RHC   nuEleElastic   fgdmass_syst   RelErr= 0.00118981
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   fgdmass_syst   RelErr= -nan
+
+ Average differential error = 0.00190782
+FGD2_RHC   otherBG   fgdmass_syst   RelErr= 0.00190782
+tpcclustereff_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("tpcclustereff_syst",-1)...
+
+ Average differential error = 8.15377e-16
+FGD1_FHC   nuEleElastic   tpcclustereff_syst   RelErr= 8.15377e-16
+
+ Average differential error = 6.66134e-16
+FGD1_FHC   ccnue   tpcclustereff_syst   RelErr= 6.66134e-16
+
+ Average differential error = 0.00206967
+FGD1_FHC   otherBG   tpcclustereff_syst   RelErr= 0.00206967
+
+ Average differential error = 2.45015e-15
+FGD2_FHC   nuEleElastic   tpcclustereff_syst   RelErr= 2.45015e-15
+
+ Average differential error = 6.66134e-16
+FGD2_FHC   ccnue   tpcclustereff_syst   RelErr= 6.66134e-16
+
+ Average differential error = 5.0156e-15
+FGD2_FHC   otherBG   tpcclustereff_syst   RelErr= 5.0156e-15
+
+ Average differential error = 5.0156e-15
+FGD1_RHC   nuEleElastic   tpcclustereff_syst   RelErr= 5.0156e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   tpcclustereff_syst   RelErr= -nan
+
+ Average differential error = 8.88178e-16
+FGD1_RHC   otherBG   tpcclustereff_syst   RelErr= 8.88178e-16
+
+ Average differential error = 3.21436e-15
+FGD2_RHC   nuEleElastic   tpcclustereff_syst   RelErr= 3.21436e-15
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   tpcclustereff_syst   RelErr= -nan
+
+ Average differential error = 6.66134e-16
+FGD2_RHC   otherBG   tpcclustereff_syst   RelErr= 6.66134e-16
+tpc_ecal_matcheff_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("tpc_ecal_matcheff_syst",-1)...
+
+ Average differential error = 0.00555691
+FGD1_FHC   nuEleElastic   tpc_ecal_matcheff_syst   RelErr= 0.00555691
+
+ Average differential error = 6.66134e-16
+FGD1_FHC   ccnue   tpc_ecal_matcheff_syst   RelErr= 6.66134e-16
+
+ Average differential error = 1.18424e-15
+FGD1_FHC   otherBG   tpc_ecal_matcheff_syst   RelErr= 1.18424e-15
+
+ Average differential error = 0.00459048
+FGD2_FHC   nuEleElastic   tpc_ecal_matcheff_syst   RelErr= 0.00459048
+
+ Average differential error = 0.014532
+FGD2_FHC   ccnue   tpc_ecal_matcheff_syst   RelErr= 0.014532
+
+ Average differential error = 0.0106387
+FGD2_FHC   otherBG   tpc_ecal_matcheff_syst   RelErr= 0.0106387
+
+ Average differential error = 0.0138408
+FGD1_RHC   nuEleElastic   tpc_ecal_matcheff_syst   RelErr= 0.0138408
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   tpc_ecal_matcheff_syst   RelErr= -nan
+
+ Average differential error = 0.0103068
+FGD1_RHC   otherBG   tpc_ecal_matcheff_syst   RelErr= 0.0103068
+
+ Average differential error = 0.00879487
+FGD2_RHC   nuEleElastic   tpc_ecal_matcheff_syst   RelErr= 0.00879487
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   tpc_ecal_matcheff_syst   RelErr= -nan
+
+ Average differential error = 0.0154885
+FGD2_RHC   otherBG   tpc_ecal_matcheff_syst   RelErr= 0.0154885
+ecal_pid_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("ecal_pid_syst",-1)...
+
+ Average differential error = 0.00166666
+FGD1_FHC   nuEleElastic   ecal_pid_syst   RelErr= 0.00166666
+
+ Average differential error = 6.66134e-16
+FGD1_FHC   ccnue   ecal_pid_syst   RelErr= 6.66134e-16
+
+ Average differential error = 1.18424e-15
+FGD1_FHC   otherBG   ecal_pid_syst   RelErr= 1.18424e-15
+
+ Average differential error = 0.00172511
+FGD2_FHC   nuEleElastic   ecal_pid_syst   RelErr= 0.00172511
+
+ Average differential error = 0.00379534
+FGD2_FHC   ccnue   ecal_pid_syst   RelErr= 0.00379534
+
+ Average differential error = 0.0246741
+FGD2_FHC   otherBG   ecal_pid_syst   RelErr= 0.0246741
+
+ Average differential error = 0.00321599
+FGD1_RHC   nuEleElastic   ecal_pid_syst   RelErr= 0.00321599
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   ecal_pid_syst   RelErr= -nan
+
+ Average differential error = 0.00475097
+FGD1_RHC   otherBG   ecal_pid_syst   RelErr= 0.00475097
+
+ Average differential error = 0.00279468
+FGD2_RHC   nuEleElastic   ecal_pid_syst   RelErr= 0.00279468
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   ecal_pid_syst   RelErr= -nan
+
+ Average differential error = 0.0329695
+FGD2_RHC   otherBG   ecal_pid_syst   RelErr= 0.0329695
+ecal_emhippid_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("ecal_emhippid_syst",-1)...
+
+ Average differential error = 8.15377e-16
+FGD1_FHC   nuEleElastic   ecal_emhippid_syst   RelErr= 8.15377e-16
+
+ Average differential error = 6.66134e-16
+FGD1_FHC   ccnue   ecal_emhippid_syst   RelErr= 6.66134e-16
+
+ Average differential error = 1.18424e-15
+FGD1_FHC   otherBG   ecal_emhippid_syst   RelErr= 1.18424e-15
+
+ Average differential error = 2.45015e-15
+FGD2_FHC   nuEleElastic   ecal_emhippid_syst   RelErr= 2.45015e-15
+
+ Average differential error = 6.66134e-16
+FGD2_FHC   ccnue   ecal_emhippid_syst   RelErr= 6.66134e-16
+
+ Average differential error = 5.0156e-15
+FGD2_FHC   otherBG   ecal_emhippid_syst   RelErr= 5.0156e-15
+
+ Average differential error = 5.0156e-15
+FGD1_RHC   nuEleElastic   ecal_emhippid_syst   RelErr= 5.0156e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   ecal_emhippid_syst   RelErr= -nan
+
+ Average differential error = 8.88178e-16
+FGD1_RHC   otherBG   ecal_emhippid_syst   RelErr= 8.88178e-16
+
+ Average differential error = 3.21436e-15
+FGD2_RHC   nuEleElastic   ecal_emhippid_syst   RelErr= 3.21436e-15
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   ecal_emhippid_syst   RelErr= -nan
+
+ Average differential error = 6.66134e-16
+FGD2_RHC   otherBG   ecal_emhippid_syst   RelErr= 6.66134e-16
+fgd2shower_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("fgd2shower_syst",-1)...
+
+ Average differential error = 8.15377e-16
+FGD1_FHC   nuEleElastic   fgd2shower_syst   RelErr= 8.15377e-16
+
+ Average differential error = 6.66134e-16
+FGD1_FHC   ccnue   fgd2shower_syst   RelErr= 6.66134e-16
+
+ Average differential error = 1.18424e-15
+FGD1_FHC   otherBG   fgd2shower_syst   RelErr= 1.18424e-15
+
+ Average differential error = 2.45015e-15
+FGD2_FHC   nuEleElastic   fgd2shower_syst   RelErr= 2.45015e-15
+
+ Average differential error = 6.66134e-16
+FGD2_FHC   ccnue   fgd2shower_syst   RelErr= 6.66134e-16
+
+ Average differential error = 5.0156e-15
+FGD2_FHC   otherBG   fgd2shower_syst   RelErr= 5.0156e-15
+
+ Average differential error = 5.0156e-15
+FGD1_RHC   nuEleElastic   fgd2shower_syst   RelErr= 5.0156e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   fgd2shower_syst   RelErr= -nan
+
+ Average differential error = 8.88178e-16
+FGD1_RHC   otherBG   fgd2shower_syst   RelErr= 8.88178e-16
+
+ Average differential error = 3.21436e-15
+FGD2_RHC   nuEleElastic   fgd2shower_syst   RelErr= 3.21436e-15
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   fgd2shower_syst   RelErr= -nan
+
+ Average differential error = 6.66134e-16
+FGD2_RHC   otherBG   fgd2shower_syst   RelErr= 6.66134e-16
+nuetpcpileup_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("nuetpcpileup_syst",-1)...
+
+ Average differential error = 0.000396346
+FGD1_FHC   nuEleElastic   nuetpcpileup_syst   RelErr= 0.000396346
+
+ Average differential error = 0.000613057
+FGD1_FHC   ccnue   nuetpcpileup_syst   RelErr= 0.000613057
+
+ Average differential error = 0.000757715
+FGD1_FHC   otherBG   nuetpcpileup_syst   RelErr= 0.000757715
+
+ Average differential error = 0.000480023
+FGD2_FHC   nuEleElastic   nuetpcpileup_syst   RelErr= 0.000480023
+
+ Average differential error = 0.00228835
+FGD2_FHC   ccnue   nuetpcpileup_syst   RelErr= 0.00228835
+
+ Average differential error = 0.000859562
+FGD2_FHC   otherBG   nuetpcpileup_syst   RelErr= 0.000859562
+
+ Average differential error = 0.000675769
+FGD1_RHC   nuEleElastic   nuetpcpileup_syst   RelErr= 0.000675769
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   nuetpcpileup_syst   RelErr= -nan
+
+ Average differential error = 0.00172349
+FGD1_RHC   otherBG   nuetpcpileup_syst   RelErr= 0.00172349
+
+ Average differential error = 0.000592643
+FGD2_RHC   nuEleElastic   nuetpcpileup_syst   RelErr= 0.000592643
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   nuetpcpileup_syst   RelErr= -nan
+
+ Average differential error = 0.00144973
+FGD2_RHC   otherBG   nuetpcpileup_syst   RelErr= 0.00144973
+nuep0dpileup_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("nuep0dpileup_syst",-1)...
+
+ Average differential error = 0.000690846
+FGD1_FHC   nuEleElastic   nuep0dpileup_syst   RelErr= 0.000690846
+
+ Average differential error = 0.00117178
+FGD1_FHC   ccnue   nuep0dpileup_syst   RelErr= 0.00117178
+
+ Average differential error = 0.00162717
+FGD1_FHC   otherBG   nuep0dpileup_syst   RelErr= 0.00162717
+
+ Average differential error = 0.000816256
+FGD2_FHC   nuEleElastic   nuep0dpileup_syst   RelErr= 0.000816256
+
+ Average differential error = 0.00262363
+FGD2_FHC   ccnue   nuep0dpileup_syst   RelErr= 0.00262363
+
+ Average differential error = 0.00153406
+FGD2_FHC   otherBG   nuep0dpileup_syst   RelErr= 0.00153406
+
+ Average differential error = 0.0011294
+FGD1_RHC   nuEleElastic   nuep0dpileup_syst   RelErr= 0.0011294
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   nuep0dpileup_syst   RelErr= -nan
+
+ Average differential error = 0.00278121
+FGD1_RHC   otherBG   nuep0dpileup_syst   RelErr= 0.00278121
+
+ Average differential error = 0.00101689
+FGD2_RHC   nuEleElastic   nuep0dpileup_syst   RelErr= 0.00101689
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   nuep0dpileup_syst   RelErr= -nan
+
+ Average differential error = 0.00224446
+FGD2_RHC   otherBG   nuep0dpileup_syst   RelErr= 0.00224446
+nueecalpileup_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("nueecalpileup_syst",-1)...
+
+ Average differential error = 0.00079834
+FGD1_FHC   nuEleElastic   nueecalpileup_syst   RelErr= 0.00079834
+
+ Average differential error = 0.000947513
+FGD1_FHC   ccnue   nueecalpileup_syst   RelErr= 0.000947513
+
+ Average differential error = 0.00155685
+FGD1_FHC   otherBG   nueecalpileup_syst   RelErr= 0.00155685
+
+ Average differential error = 0.00155339
+FGD2_FHC   nuEleElastic   nueecalpileup_syst   RelErr= 0.00155339
+
+ Average differential error = 0.00865022
+FGD2_FHC   ccnue   nueecalpileup_syst   RelErr= 0.00865022
+
+ Average differential error = 0.00284004
+FGD2_FHC   otherBG   nueecalpileup_syst   RelErr= 0.00284004
+
+ Average differential error = 0.000450709
+FGD1_RHC   nuEleElastic   nueecalpileup_syst   RelErr= 0.000450708
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   nueecalpileup_syst   RelErr= -nan
+
+ Average differential error = 0.00123716
+FGD1_RHC   otherBG   nueecalpileup_syst   RelErr= 0.00123716
+
+ Average differential error = 0.00256987
+FGD2_RHC   nuEleElastic   nueecalpileup_syst   RelErr= 0.00256987
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   nueecalpileup_syst   RelErr= -nan
+
+ Average differential error = 0.00120374
+FGD2_RHC   otherBG   nueecalpileup_syst   RelErr= 0.00120374
+nueoofv_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("nueoofv_syst",-1)...
+
+ Average differential error = 8.15377e-16
+FGD1_FHC   nuEleElastic   nueoofv_syst   RelErr= 8.15377e-16
+
+ Average differential error = 6.66134e-16
+FGD1_FHC   ccnue   nueoofv_syst   RelErr= 6.66134e-16
+
+ Average differential error = 0.163148
+FGD1_FHC   otherBG   nueoofv_syst   RelErr= 0.163148
+
+ Average differential error = 2.45015e-15
+FGD2_FHC   nuEleElastic   nueoofv_syst   RelErr= 2.45015e-15
+
+ Average differential error = 6.66134e-16
+FGD2_FHC   ccnue   nueoofv_syst   RelErr= 6.66134e-16
+
+ Average differential error = 0.119302
+FGD2_FHC   otherBG   nueoofv_syst   RelErr= 0.119302
+
+ Average differential error = 5.0156e-15
+FGD1_RHC   nuEleElastic   nueoofv_syst   RelErr= 5.0156e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   nueoofv_syst   RelErr= -nan
+
+ Average differential error = 0.4354
+FGD1_RHC   otherBG   nueoofv_syst   RelErr= 0.4354
+
+ Average differential error = 3.21436e-15
+FGD2_RHC   nuEleElastic   nueoofv_syst   RelErr= 3.21436e-15
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   nueoofv_syst   RelErr= -nan
+
+ Average differential error = 0.291918
+FGD2_RHC   otherBG   nueoofv_syst   RelErr= 0.291918
+nuparent_decaypos_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("nuparent_decaypos_syst",-1)...
+
+ Average differential error = 2.18405e-15
+FGD1_FHC   nuEleElastic   nuparent_decaypos_syst   RelErr= 2.18405e-15
+
+ Average differential error = 2.08167e-15
+FGD1_FHC   ccnue   nuparent_decaypos_syst   RelErr= 2.08167e-15
+
+ Average differential error = 2.77556e-15
+FGD1_FHC   otherBG   nuparent_decaypos_syst   RelErr= 2.77556e-15
+
+ Average differential error = 4.97686e-15
+FGD2_FHC   nuEleElastic   nuparent_decaypos_syst   RelErr= 4.97686e-15
+
+ Average differential error = 2.08167e-15
+FGD2_FHC   ccnue   nuparent_decaypos_syst   RelErr= 2.08167e-15
+
+ Average differential error = 1.14288e-15
+FGD2_FHC   otherBG   nuparent_decaypos_syst   RelErr= 1.14288e-15
+
+ Average differential error = 1.14288e-15
+FGD1_RHC   nuEleElastic   nuparent_decaypos_syst   RelErr= 1.14288e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   nuparent_decaypos_syst   RelErr= -nan
+
+ Average differential error = 2.31296e-15
+FGD1_RHC   otherBG   nuparent_decaypos_syst   RelErr= 2.31296e-15
+
+ Average differential error = 4.89027e-15
+FGD2_RHC   nuEleElastic   nuparent_decaypos_syst   RelErr= 4.89027e-15
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   nuparent_decaypos_syst   RelErr= -nan
+
+ Average differential error = 2.08167e-15
+FGD2_RHC   otherBG   nuparent_decaypos_syst   RelErr= 2.08167e-15
+tpc_angres_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("tpc_angres_syst",-1)...
+
+ Average differential error = 0.0208606
+FGD1_FHC   nuEleElastic   tpc_angres_syst   RelErr= 0.0208606
+
+ Average differential error = 0.139802
+FGD1_FHC   ccnue   tpc_angres_syst   RelErr= 0.139802
+
+ Average differential error = 0.0518371
+FGD1_FHC   otherBG   tpc_angres_syst   RelErr= 0.0518371
+
+ Average differential error = 0.0346404
+FGD2_FHC   nuEleElastic   tpc_angres_syst   RelErr= 0.0346404
+
+ Average differential error = 0.257286
+FGD2_FHC   ccnue   tpc_angres_syst   RelErr= 0.257286
+
+ Average differential error = 0.0644732
+FGD2_FHC   otherBG   tpc_angres_syst   RelErr= 0.0644732
+
+ Average differential error = 0.0268472
+FGD1_RHC   nuEleElastic   tpc_angres_syst   RelErr= 0.0268472
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   tpc_angres_syst   RelErr= -nan
+
+ Average differential error = 0.205498
+FGD1_RHC   otherBG   tpc_angres_syst   RelErr= 0.205498
+
+ Average differential error = 0.0476839
+FGD2_RHC   nuEleElastic   tpc_angres_syst   RelErr= 0.0476839
+
+ Average differential error = 0.861102
+FGD2_RHC   ccnue   tpc_angres_syst   RelErr= 0.861102
+
+ Average differential error = 0.0460633
+FGD2_RHC   otherBG   tpc_angres_syst   RelErr= 0.0460633
+va_syst
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/34    2 October 2015   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/34 (v5-34-34@v5-34-34, Oct 02 2015, 16:30:37 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+
+Processing dsyst.C("va_syst",-1)...
+
+ Average differential error = 2.18405e-15
+FGD1_FHC   nuEleElastic   va_syst   RelErr= 2.18405e-15
+
+ Average differential error = 0.0680055
+FGD1_FHC   ccnue   va_syst   RelErr= 0.0680055
+
+ Average differential error = 0.0208273
+FGD1_FHC   otherBG   va_syst   RelErr= 0.0208273
+
+ Average differential error = 0.00269297
+FGD2_FHC   nuEleElastic   va_syst   RelErr= 0.00269297
+
+ Average differential error = 0.125738
+FGD2_FHC   ccnue   va_syst   RelErr= 0.125738
+
+ Average differential error = 0.0657979
+FGD2_FHC   otherBG   va_syst   RelErr= 0.0657979
+
+ Average differential error = 1.14288e-15
+FGD1_RHC   nuEleElastic   va_syst   RelErr= 1.14288e-15
+
+ Average differential error = -nan
+FGD1_RHC   ccnue   va_syst   RelErr= -nan
+
+ Average differential error = 2.31296e-15
+FGD1_RHC   otherBG   va_syst   RelErr= 2.31296e-15
+
+ Average differential error = 4.89027e-15
+FGD2_RHC   nuEleElastic   va_syst   RelErr= 4.89027e-15
+
+ Average differential error = -nan
+FGD2_RHC   ccnue   va_syst   RelErr= -nan
+
+ Average differential error = 0.0305025
+FGD2_RHC   otherBG   va_syst   RelErr= 0.0305025
